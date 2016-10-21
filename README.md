@@ -1,10 +1,8 @@
 # vue-Webpack
-vue and webpack 
-
-
-vue config Template,
-
+vue and webpack config Template,
 copy form Someone else
+
+readme is also copied:
 
 
 # new
