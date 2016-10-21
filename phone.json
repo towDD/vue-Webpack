@@ -1,0 +1,10 @@
+
+  {
+  	"title":"标题",
+  	"suc":"200",
+  	"valList":[
+  	{"val":"20元","dis":false},
+  	{"val":"30元","dis":false},
+  	{"val":"50元","dis":true}
+  	]
+ }
